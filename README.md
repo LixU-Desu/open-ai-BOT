@@ -16,7 +16,7 @@
 - Instalar as Bibliotecas Necessárias. 
 
 
-**Caso tenha alguma dúvida, entre no nosso servidor do Discord:** 
+*Caso tenha alguma dúvida, entre no nosso servidor do Discord:*
 
 - [Discord](https://discord.gg/animoe-716312922615447662)
 
