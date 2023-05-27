@@ -20,7 +20,6 @@
 
 - [Discord](https://discord.gg/animoe-716312922615447662)
 
-LixU ^^
 
 
 
