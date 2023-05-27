@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Bot para dá Boas-Vindas a novos membros utilizando a OPENAI.</h4>
+<h4 align="center">Bot para dá Boas-Vindas a novos membros utilizando a OPENAI</h4>
 
 **Como configurar:**
 
