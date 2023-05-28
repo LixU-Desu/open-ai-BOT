@@ -13,7 +13,7 @@
 - Criar um ".env"
 - Adicionar seu o Token do seu BOT "BOT_TOKEN="
 - Adicionar a Key da sua API da OpeAI "OPENAI_API_KEY="
-- Instalar as Bibliotecas Necessárias. 
+- Instalar as Bibliotecas Necessárias
 
 
 *Caso tenha alguma dúvida, entre no nosso servidor do Discord:*
