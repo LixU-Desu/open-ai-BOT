@@ -10,7 +10,7 @@
 
 **Como configurar:**
 
-- Criar um ".env"
+- Criar um ".env".
 - Adicionar seu o Token do seu BOT "BOT_TOKEN="
 - Adicionar a Key da sua API da OpeAI "OPENAI_API_KEY="
 - Instalar as Bibliotecas Necessárias
